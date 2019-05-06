@@ -1,0 +1,7 @@
+D:/darknet/CMakeFiles/darklib.dir
+D:/darknet/CMakeFiles/uselib.dir
+D:/darknet/CMakeFiles/uselib_track.dir
+D:/darknet/CMakeFiles/INSTALL.dir
+D:/darknet/CMakeFiles/darknet.dir
+D:/darknet/CMakeFiles/ALL_BUILD.dir
+D:/darknet/CMakeFiles/ZERO_CHECK.dir
